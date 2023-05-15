@@ -1,0 +1,26 @@
+.footer{
+    margin-top: 10px;
+    border-top: 0.5px solid #3C3C41;
+    text-align: center;
+}
+.text, .text2{
+    color: #fff;  
+}
+.text{
+    margin-bottom: -10px;
+}
+.text2{
+    margin-top: -20px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.list{
+    list-style: none;
+}
+.link{
+    margin-left: 5px;
+    margin-right: 10px;
+}

@@ -1,0 +1,16 @@
+.containerVideo{
+box-sizing: border-box;
+width: 382px;
+height: 192.35px;
+left: 593px;
+top: 155px;
+background: #0E0F0F;
+border: 0.7px solid #42331A;
+border-radius: 5px;
+}
+.video, .image{
+    width: 380px;
+    height: 190px;
+    border-radius: 5px;
+    background-size: cover;
+}

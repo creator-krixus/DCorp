@@ -1,0 +1,70 @@
+.card {
+    width: 248px;
+    height: 448px;
+    background: linear-gradient(360deg, #000000 0%, #090C14 0.01%, rgba(23, 26, 32, 0) 36.49%, rgba(39, 44, 52, 0) 114.84%);
+    border: 0.75px solid #3C3C41;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .name{
+    display: flex;
+    justify-content: center;
+
+  }
+  .boxAvatar{
+    width: 163px;
+    height: 192px;
+    margin: 0 auto;
+    padding: 35px 0;
+    background-image: url('../../assets/Círculo\ nivel.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .gif{
+    margin-top: 17px;
+    padding: 0 5px;
+  }
+  .avatar {
+    width: 126px;
+    height: 126px;
+    margin-top: -4px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: linear-gradient(0deg, #3C3C41 -52.75%, #090C14 189.56%);
+    border: 1.25992px solid #3C3C41;
+    box-shadow: 0px 2.51983px 5.03966px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+  
+  .card h2 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #F0E6D2;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 20ch;
+  }
+  
+  .comics, .movies{
+    width: 178px;
+    height: 49px;
+    left: 363px;
+    top: 662px;
+    border: 1px solid #5B5A56;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    color: #F0E6D2;
+    font-style: normal;
+    font-weight: 400;
+    margin: 20px auto;
+    padding-top: 10px;
+  }
+  .span{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
